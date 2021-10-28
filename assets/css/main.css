@@ -2655,7 +2655,7 @@ input, select, textarea {
 		}
 
 	#footer .copyright {
-		color: rgba(255, 255, 255, 0.4);
+		color: rgb(255, 255, 255);
 		font-size: 0.8em;
 		list-style: none;
 		margin: 1em 0 0 0;
@@ -2676,8 +2676,8 @@ input, select, textarea {
 				padding-left: 0;
 			}
 
-			#footer .copyright li a {
-				color: inherit;
+			#footer .copyright a {
+				color: white;
 			}
 
 /* Main */
